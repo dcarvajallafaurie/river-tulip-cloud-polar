@@ -1,0 +1,1 @@
+import{H as e,I as t}from"./index-BqnS2m0j.js";var n=e();function r({value:e,className:r,barClassName:i}){let a=Math.min(100,Math.max(0,e));return(0,n.jsx)(`div`,{className:t(`h-1.5 w-full overflow-hidden rounded-full bg-paper-3`,r),children:(0,n.jsx)(`div`,{className:t(`h-full rounded-full bg-accent transition-[width] duration-300`,i),style:{width:`${a}%`}})})}export{r as t};
